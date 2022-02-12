@@ -1,0 +1,15 @@
+D:\C_sharp_workspace\Git_sync\CsharpCodingPrac\bin\Debug\net6.0\CsharpCodingPrac.exe
+D:\C_sharp_workspace\Git_sync\CsharpCodingPrac\bin\Debug\net6.0\CsharpCodingPrac.deps.json
+D:\C_sharp_workspace\Git_sync\CsharpCodingPrac\bin\Debug\net6.0\CsharpCodingPrac.runtimeconfig.json
+D:\C_sharp_workspace\Git_sync\CsharpCodingPrac\bin\Debug\net6.0\CsharpCodingPrac.dll
+D:\C_sharp_workspace\Git_sync\CsharpCodingPrac\bin\Debug\net6.0\ref\CsharpCodingPrac.dll
+D:\C_sharp_workspace\Git_sync\CsharpCodingPrac\bin\Debug\net6.0\CsharpCodingPrac.pdb
+D:\C_sharp_workspace\Git_sync\CsharpCodingPrac\obj\Debug\net6.0\CsharpCodingPrac.csproj.AssemblyReference.cache
+D:\C_sharp_workspace\Git_sync\CsharpCodingPrac\obj\Debug\net6.0\CsharpCodingPrac.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp_workspace\Git_sync\CsharpCodingPrac\obj\Debug\net6.0\CsharpCodingPrac.AssemblyInfoInputs.cache
+D:\C_sharp_workspace\Git_sync\CsharpCodingPrac\obj\Debug\net6.0\CsharpCodingPrac.AssemblyInfo.cs
+D:\C_sharp_workspace\Git_sync\CsharpCodingPrac\obj\Debug\net6.0\CsharpCodingPrac.csproj.CoreCompileInputs.cache
+D:\C_sharp_workspace\Git_sync\CsharpCodingPrac\obj\Debug\net6.0\CsharpCodingPrac.dll
+D:\C_sharp_workspace\Git_sync\CsharpCodingPrac\obj\Debug\net6.0\ref\CsharpCodingPrac.dll
+D:\C_sharp_workspace\Git_sync\CsharpCodingPrac\obj\Debug\net6.0\CsharpCodingPrac.pdb
+D:\C_sharp_workspace\Git_sync\CsharpCodingPrac\obj\Debug\net6.0\CsharpCodingPrac.genruntimeconfig.cache
